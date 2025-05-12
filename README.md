@@ -1,0 +1,1 @@
+pnpm add -D @nomicfoundation/hardhat-toolbox @nomicfoundation/hardhat-ignition @nomicfoundation/hardhat-network-helpers chai@4 ethers
